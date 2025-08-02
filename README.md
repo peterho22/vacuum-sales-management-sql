@@ -1,4 +1,4 @@
-# Vacuum Company Manufacturing & Sales Database
+# Vacuum Company Manufacturing & Sales System 
 
 ## Overview
 This project models a database for a vacuum manufacturing company. It tracks:
