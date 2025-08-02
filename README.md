@@ -26,7 +26,7 @@ The database supports querying for common business insights, such as:
 
 ## How to Use
 1. Open SQL Server Management Studio (SSMS) or similar SQL client.
-2. Run the `vacuum_project.sql` script to:
+2. Run the `vacuum-sales-management.sql` script to:
    - Drop existing tables (if any)
    - Create all tables
    - Insert sample data
@@ -58,4 +58,4 @@ The database supports querying for common business insights, such as:
 ---
 
 ## Author
-Peter Ho – [GitHub Profile](https://github.com/peterho22)
+Peter Ho – (https://github.com/peterho22)
